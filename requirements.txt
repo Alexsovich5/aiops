@@ -1,0 +1,11 @@
+# AIOps Platform
+# Python 3.7 Dependencies - 2019
+
+tensorflow==2.0.0
+transformers==2.3.0
+fastapi==0.45.0
+uvicorn==0.11.1
+redis==3.3.0
+numpy==1.17.0
+scikit-learn==0.21.3
+PyYAML==5.1
