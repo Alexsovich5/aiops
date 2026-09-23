@@ -1,6 +1,5 @@
 """
 Alert Correlator
-IT Operations Specialist - ACORIA (2019)
 
 Correlates related alerts to reduce noise and identify
 root cause patterns.

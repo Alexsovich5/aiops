@@ -1,6 +1,5 @@
 """
 Incident Classifier
-IT Operations Specialist - ACORIA (2019)
 
 BERT-based incident classification for automatic categorization
 and priority assignment.

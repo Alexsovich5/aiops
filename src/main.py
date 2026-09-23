@@ -1,6 +1,5 @@
 """
 AIOps Platform - Main Application
-IT Operations Specialist - ACORIA (2019)
 """
 
 import uvicorn
